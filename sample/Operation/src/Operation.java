@@ -53,11 +53,11 @@ public class Operation {
 		
 		/* Array concept with sequence */
 		
-		System.out.println("Array Value of index 0 :"+ arr[0]);
-		System.out.println("Array Value of index 1 :"+ arr[1]);
-		System.out.println("Array Value of index 2 :"+ arr[2]);
-		System.out.println("Array Value of index 3 :"+ arr[3]);
-		System.out.println("Array Value of index 0 :"+ arr[4]);
+		System.out.println("Array Value of index 0 :\n\t"+ arr[0]);
+		System.out.println("Array Value of index 1 :\n\t"+ arr[1]);
+		System.out.println("Array Value of index 2 :\n\t"+ arr[2]);
+		System.out.println("Array Value of index 3 :\n\t"+ arr[3]);
+		System.out.println("Array Value of index 0 :\n\t"+ arr[4]);
 		
 		
 		//Print the Array value
@@ -65,10 +65,10 @@ public class Operation {
 		
 				for(int i=0;i<arr.length;i++)
 					
-		System.out.print(" "+ arr[i]);
+		System.out.print("\n"+ arr[i]);
 				
 				System.out.println(" ");
-				System.out.println(" "+ arr[1]);
+				System.out.println("\t"+ arr[1]);
 				
 			
 	}

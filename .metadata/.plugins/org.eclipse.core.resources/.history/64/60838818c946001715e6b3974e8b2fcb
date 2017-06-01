@@ -1,0 +1,10 @@
+
+public class Static {
+
+	int ac;
+	String name;
+	static brcode = "10";
+	
+	
+	
+}

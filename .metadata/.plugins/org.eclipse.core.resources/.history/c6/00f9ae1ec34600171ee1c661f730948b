@@ -1,0 +1,12 @@
+
+public class This {
+int ac;
+String name;
+float fees;
+
+This(int a,String name,float fees){
+	
+	
+}
+
+}

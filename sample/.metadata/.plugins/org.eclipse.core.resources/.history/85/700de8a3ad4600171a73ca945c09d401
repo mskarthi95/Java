@@ -1,0 +1,56 @@
+
+public class Operation {
+
+	public static void main(String [] args){
+		
+		
+		//Declare the Datatype
+	
+		
+		
+		int a=5;
+		byte b= 1;
+		short c=2;
+		long d= 25;
+		
+		//Character
+		 char e= 'a';
+		
+		//double and float
+		float f= 10.2f;
+		double g= 10.2f;
+		
+		//boolean
+		Boolean H= true;
+
+		//Array Concept declaration
+		
+		int arr[]= new int[5];
+		arr[0]= 10;
+		arr[1]= 20;
+		arr[2]= 30;
+		arr[3]= 40;
+		arr[4]= 50;
+		
+		System.out.println("The value of Datatype");
+	//	System.out.println("The value of Integer");
+		
+		System.out.println("Int :" + a);
+		System.out.println("byte :" + b);
+		System.out.println("Short :" + c);
+		System.out.println("long :" +d);
+		
+		System.out.println("Char :" + e);
+		System.out.println("Float :" + f);
+		System.out.println("double :" + g);
+		
+		System.out.println("Boolean :" + H);
+		
+		
+		/* Array concept with sequence */
+		
+		System.out.println("Array Value of arr :"+ arr);
+		
+	}
+	
+}

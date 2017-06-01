@@ -1,0 +1,39 @@
+
+public class Operation {
+
+	public static void main(String [] args){
+		
+		
+		//Declare the Datatype
+		
+		int a=5;
+		byte b= 1;
+		short c=2;
+		long d= 25;
+		
+		//Character
+		char e= 'a';
+		
+		//double and float
+		float f= 10.2f;
+		double g= 10.2f;
+		
+		//boolean
+		Boolean H= true;
+
+		
+		System.out.println("The value of Datatype");
+	//	System.out.println("The value of Integer");
+		
+		System.out.println("Int :" + a);
+		System.out.println("byte :" + b);
+		System.out.println("Short :" + c);
+		System.out.println("long :" +d);
+		
+		System.out.println("Char :" + e);
+		System.out.println("Float :" + f);
+		System.out.println("double :" + g);
+		
+	}
+	
+}

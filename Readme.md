@@ -2,7 +2,7 @@
 
 	Day 1:
 		- Arthmetic Operation.
-		- Developing Using Eclpse IDE.
+		- Developing Using Eclipse IDE.
 		- This keyword.
 		- Static Keyword.
 		
@@ -10,7 +10,7 @@
 	Day 2:
 		- Constructor.
 			Default Constructor.
-			Parametrised Constructor.
+			Parameterised Constructor.
 		- Access Modifier.
 			Public.
 			Default.

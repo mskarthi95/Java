@@ -1,0 +1,24 @@
+
+class Obj {
+
+	int no;
+	String name;
+	
+	Obj(int num, String nm){
+		no=num;
+		name=nm;
+	}
+	
+	void display(){
+		System.out.println(no+" "+ name);
+	}
+}
+
+public class Parameter{
+	public static void main(String args[]){
+		
+		
+	}
+	
+}
+

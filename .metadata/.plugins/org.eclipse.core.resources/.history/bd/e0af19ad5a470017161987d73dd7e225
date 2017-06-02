@@ -1,0 +1,10 @@
+
+public class Parameter {
+
+	int no;
+	String name;
+	
+	Parameter(int no, String name){
+		
+	}
+}

@@ -1,0 +1,10 @@
+package Pack;
+
+public class Pack {
+
+	public void msg()
+	{
+		System.out.println("package is working successfully");
+		System.out.println("/n");
+	}
+}

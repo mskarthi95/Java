@@ -1,0 +1,6 @@
+package Pack;
+import Pack.*;
+
+public class Mypack {
+
+}

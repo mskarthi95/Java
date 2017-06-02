@@ -15,3 +15,8 @@
 			Public.
 			Default.
 		- Package import concept.
+			Import Package from other class file.
+		- Array.
+			Single Dimension
+			
+				

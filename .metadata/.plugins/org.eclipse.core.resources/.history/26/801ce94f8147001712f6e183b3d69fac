@@ -1,7 +1,0 @@
-package mypack;
-
-public class Package {
-public void msg(){
-	System.out.println("Hello");
-}
-}

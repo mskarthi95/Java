@@ -1,0 +1,18 @@
+
+class InstanceOf {
+}
+
+class Child2 extends InstanceOf{}
+class Child3 extends InstanceOf{}
+
+	
+class Test{
+	public static void main(String args[]){
+		
+		InstanceOf I=new InstanceOf();
+		Child2 C = new Child2();
+		Child3 CC= new Child3();		
+	}
+	
+	
+}

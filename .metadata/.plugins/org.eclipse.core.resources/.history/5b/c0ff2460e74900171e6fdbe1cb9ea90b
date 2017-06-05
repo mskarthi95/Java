@@ -1,0 +1,14 @@
+
+public class Riding {
+
+	void run()
+	{
+		System.out.println("Ride");
+	}
+	
+	class Car()
+	{System.out.println("Car");
+		
+	}
+	
+}

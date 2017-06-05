@@ -19,4 +19,10 @@
 		- Array.
 			Single Dimension
 			
+	Day 3:
+		-InstanceOf. 
+		-Methods.
+			-overriding
+		-Heap and Stack.
+			
 				

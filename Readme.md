@@ -24,5 +24,7 @@
 		-Methods.
 			-overriding
 		-Heap and Stack.
-			
-				
+		
+To compile all java files use compile.bat file, open it in windows to execute .java files.	
+				(or)
+		open in command prompt by typing the bat file name.

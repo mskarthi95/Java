@@ -1,0 +1,12 @@
+import java.util.Arrays;
+
+
+public class ArraySingle {
+public static void main (String args[]){
+	
+	String[] array={"10","20","30"};
+	
+	System.out.println(Arrays.toString(array));
+	
+}
+}

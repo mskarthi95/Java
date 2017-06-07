@@ -44,3 +44,11 @@
 2017-06-05 19:06:02,647 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
 2017-06-06 09:45:08,323 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
 2017-06-06 09:45:09,108 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:62961
+2017-06-06 11:34:37,494 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2017-06-06 11:35:41,093 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2017-06-06 11:35:41,208 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:26828
+2017-06-06 19:03:43,927 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2017-06-07 10:08:17,038 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2017-06-07 10:08:17,306 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:9278
+2017-06-07 13:59:08,912 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.14.v20131031
+2017-06-07 13:59:09,434 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:38724

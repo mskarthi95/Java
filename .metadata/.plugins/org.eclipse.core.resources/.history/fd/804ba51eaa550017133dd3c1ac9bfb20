@@ -1,0 +1,9 @@
+interface Vehicle {
+
+	public void start();
+	
+	public void move();
+	
+	public void stop();
+	
+}

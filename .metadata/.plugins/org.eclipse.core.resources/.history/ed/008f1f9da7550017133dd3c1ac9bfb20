@@ -1,0 +1,10 @@
+class Circle implements Draw {
+
+	
+	void draw() {
+		System.out.println("Cirlce is drawn");
+		System.out.println("");
+	}
+
+	
+}

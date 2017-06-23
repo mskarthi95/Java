@@ -1,0 +1,8 @@
+
+public class First {
+	 String name;
+
+	    First(String nme){
+	        this.name=nme;
+	    }
+}

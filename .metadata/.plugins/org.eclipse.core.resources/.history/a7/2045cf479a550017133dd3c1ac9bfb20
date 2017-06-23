@@ -1,0 +1,7 @@
+abstract class Square implements Shape {
+
+	public void Shape(){
+		System.out.print("not override");	
+	}
+	
+}

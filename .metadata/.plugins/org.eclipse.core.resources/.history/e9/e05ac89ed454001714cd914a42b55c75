@@ -1,0 +1,9 @@
+
+public class Second {
+    String name2;
+
+    Second(String nme1)
+    {
+        this.name2=nme1;
+}
+}

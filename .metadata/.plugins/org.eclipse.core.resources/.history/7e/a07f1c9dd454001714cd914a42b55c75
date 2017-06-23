@@ -1,0 +1,10 @@
+
+public class Main {
+	public static void main(String args[]){
+	    First f=new First("kg");
+	    Second s=new Second("fsl");
+
+	System.out.println("First name"+ f.name +"  Second name "+s.name2);
+	}
+
+}

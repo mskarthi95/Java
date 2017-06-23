@@ -1,0 +1,10 @@
+
+public class Main {
+	public static void main(String args[]){
+	    First f=new First("name");
+	    Second s=new Second("name1");
+
+	System.out.println("First name"+f+"  Second name "+s);
+	}
+
+}

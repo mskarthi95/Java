@@ -1,0 +1,38 @@
+
+class Car implements Vehicle{
+
+	public String type = "B2 vehicle";
+	
+public int start(){
+
+	return start();
+
+}
+
+@Override
+public int move() {
+	// TODO Auto-generated method stub
+ return move();
+	
+}
+
+@Override
+public int horn() {
+	// TODO Auto-generated method stub
+	return horn();
+}
+
+@Override
+public int stop() {
+	// TODO Auto-generated method stub
+	return stop();
+}
+
+@Override
+public int gear() {
+	// TODO Auto-generated method stub
+	return gear();
+}
+
+
+}

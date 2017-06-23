@@ -1,0 +1,8 @@
+class Car implements Vehicle{
+
+public void start(){
+	
+	String type = "B2";
+	System.out.println("Starts ");
+}
+}

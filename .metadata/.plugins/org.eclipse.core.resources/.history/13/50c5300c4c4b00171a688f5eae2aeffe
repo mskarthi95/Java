@@ -1,9 +1,0 @@
-
-public class ArraySingle {
-public static void main (String args[]){
-	
-	String a[]={"10","20","30"};
-	
-	System.out.println(a.toString(array));
-}
-}

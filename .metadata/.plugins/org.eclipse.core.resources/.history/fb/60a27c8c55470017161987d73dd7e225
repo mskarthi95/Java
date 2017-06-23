@@ -1,9 +1,0 @@
-
-public class Default {
-
-	Default(){
-		
-	System.out.println("Defalut Constructor");
-	
-	}
-}

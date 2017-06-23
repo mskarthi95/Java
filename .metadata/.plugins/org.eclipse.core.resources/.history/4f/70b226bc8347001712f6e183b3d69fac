@@ -1,9 +1,0 @@
-package Pack;
-
-public class Pack {
-
-	public void msg()
-	{
-		System.out.println("/n package is working successfully");
-	}
-}

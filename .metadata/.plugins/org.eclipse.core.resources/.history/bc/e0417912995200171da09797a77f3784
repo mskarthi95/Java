@@ -1,0 +1,27 @@
+
+class Add
+{
+int doorno;
+String street;
+String state;
+Add(int door, String st, String std){
+	this.doorno=door;
+	this.street=st;
+	this.state=std;	
+}
+}
+
+
+public class Student{
+	
+	
+	
+	
+	
+	
+	public static void main(String args[]){
+		
+		
+	}
+	
+}

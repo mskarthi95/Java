@@ -1,0 +1,13 @@
+interface Vehicle {
+
+	public void start();
+	
+	public void move();
+	
+	public void horn();
+	
+	public void stop();
+	
+	public void gear(); 
+	
+}

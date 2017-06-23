@@ -1,0 +1,38 @@
+
+class Car implements Vehicle{
+
+	public String type = "B2 vehicle";
+	
+public void start(){
+	
+	System.out.println("Starts : " +type);
+
+}
+
+@Override
+public void move() {
+	// TODO Auto-generated method stub
+	System.out.println("moving");
+	
+}
+
+@Override
+public void horn() {
+	// TODO Auto-generated method stub
+	
+}
+
+@Override
+public void stop() {
+	// TODO Auto-generated method stub
+	
+}
+
+@Override
+public void gear() {
+	// TODO Auto-generated method stub
+	
+}
+
+
+}

@@ -1,0 +1,9 @@
+ class Result extends Square {
+
+	 public void fill(){
+		 System.out.println("  ");
+	 }
+	 public void design(){
+		 System.out.println("override itttt : " +name);
+	 }
+}

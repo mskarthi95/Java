@@ -1,6 +1,0 @@
-
-class InstanceOf {
-}
-
-class Child2 extends Parent;
-class Child3 extends Parent;

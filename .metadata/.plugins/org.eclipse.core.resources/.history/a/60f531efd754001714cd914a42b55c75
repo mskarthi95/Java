@@ -1,0 +1,14 @@
+import java.util.*;
+
+public class Library {
+
+	 List<Book> books;
+	
+	Library(List<Book> books){
+		this.books=books;
+	}
+
+	public List<Book> get(){
+		return books;
+	}
+}

@@ -1,0 +1,34 @@
+
+
+class Address{
+    int door_no;
+    String street_ad;
+    String district_ad;
+    String state_ad;
+    Address(int dno,String street,String district,String state)
+{
+this.door_no=dno;
+this.street_ad=street;
+this.district_ad=district;
+this.state_ad=state;
+}
+}
+
+public class Student{
+    int roll_num;
+    String name;
+    String address;
+
+    Student(int roll,String nme,String add){
+this.roll_num=roll;
+this.name=nme;
+this.address=add;
+    }
+    public static void main(String args[]){
+    	Address ad=new Address(1,"KG","CBE","TN");
+    	Student ob=new Student(10,"KGFSL","KGISL_CAMPUS");
+
+System.out.println(ob.address.street_ad);
+
+    }
+}

@@ -1,0 +1,6 @@
+interface Draw {
+
+	void draw(){
+		
+	}
+}

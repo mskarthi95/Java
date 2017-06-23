@@ -1,0 +1,10 @@
+class Rectangle implements Draw{
+
+	@Override
+	public void draw() {
+		System.out.println("Draw a Rectangle");
+		System.out.println("");
+	}
+
+	
+}

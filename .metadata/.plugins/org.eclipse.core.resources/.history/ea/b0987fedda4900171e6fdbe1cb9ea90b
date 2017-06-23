@@ -1,8 +1,0 @@
-
-public class Riding {
-
-	void run()
-	{
-		System.out.println("");
-	}
-}

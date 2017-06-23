@@ -1,0 +1,4 @@
+interface Parent {
+
+	void start();
+}

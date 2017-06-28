@@ -41,7 +41,3 @@
 	</tr>
 	</table>
 	
-	
-	Date | Time } Description
-	---|---|---
-	28|9:30|1

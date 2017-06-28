@@ -12,6 +12,8 @@
     <td> Exception handling</td>
     <td> Progress</td>
 	
+	</table>
+	<table>
 	    <td>11:00-12:15</td>
     <td> Index, price band and limits in +/- in stock
 			Basket order </td>

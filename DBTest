@@ -1,0 +1,25 @@
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.ResultSet;
+
+class DBConnectionTest {
+    //call getDBConnection
+    //main
+    public static void main(String[] args) {
+        Connection conn = DBConnection.getDBConnection();
+
+        try {
+            String query = "select Vijay from student";
+            Statement statement = conn.createStatement();
+            ResultSet resultSet = statement.executeQuery(query);
+
+            while (resultSet.next()) {
+                System.out.println(resultSet.getString(1) + " " + resultSet.getString(2) + " " + resultSet.getString(3)
+                        + " " + resultSet.getString(4));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+}
